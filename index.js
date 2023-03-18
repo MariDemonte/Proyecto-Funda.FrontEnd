@@ -8,7 +8,7 @@ function saludar() {
     console.log("Bienvenido a las herramientas DEV");
 }
 
-//sieve para mostrar y ocultar la función del botón ver más. 
+//sirve para mostrar y ocultar la función del botón ver más. 
 
 function verMas(){
     var experiencia = document.getElementsByClassName("parrafo");
