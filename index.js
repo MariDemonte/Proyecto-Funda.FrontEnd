@@ -21,3 +21,7 @@ function verMas(){
                
     }
 }
+
+setTimeout(function() {
+    saludar();
+}, 1000)
